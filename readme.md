@@ -18,6 +18,8 @@ Ej:
 Tambien podremos añadir un numero de parametros extra, los cuales vienen implementados en el compilador.
 
 Hasta el momento esta incluido:
+* Leer nombre de archivo: Debe ser siempre el primer parametro. contiene un string con nombre del archivo.
+
 * Nombre del archivo de salida: Este parametro tiene como argumento un string, el cual correspendera al archivo
 de salida. Ej:
         ./out archivo.ma -o programa.exe
